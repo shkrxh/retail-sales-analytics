@@ -10,6 +10,19 @@ The project involves database design, query development and dashboard integratio
 - Local database server (PostgreSQL)
 - Power BI (for data visualization)
 
+## 📊 Dataset
+The dataset used in this project was sourced from Kaggle.
+Source: https://www.kaggle.com/datasets/ricgomes/global-fashion-retail-stores-dataset
+
 ## 🚀 Progress
 4/5/2026  
 The project is still in progress. Additional improvements, queries and documentation will be added in future updates.
+
+
+
+
+
+
+
+
+This project uses publicly available data from Kaggle for educational and portfolio purposes only.
